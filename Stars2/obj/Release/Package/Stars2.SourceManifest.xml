@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Release\Package\PackageTmp" />
+  <setAcl path="F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

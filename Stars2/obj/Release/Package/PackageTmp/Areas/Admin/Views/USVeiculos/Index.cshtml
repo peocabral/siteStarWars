@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Business.Mapping.Veiculos>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Veiculos</h2>
+
+
+@foreach (var item in Model)
+{
+
+    <a class="grid" href="@Url.Action("Details", "USVeiculos", new { id = item.ID })">
+        <div class="imagehome">
+        <div class="img_layer"></div>
+        <img src="~/Content/Estilo/@(item.ID)v.jpg"/>
+            </div>
+        <div class="edic">
+            <p class="parahome">@Html.DisplayFor(modelItem => item.Nome)</p>
+        </div>
+    </a>
+}
+<br />

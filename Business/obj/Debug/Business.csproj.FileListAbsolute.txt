@@ -1,0 +1,30 @@
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\bin\Debug\Business.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\bin\Debug\Business.pdb
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\bin\Debug\Dapper.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\bin\Debug\Dapper.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\obj\Debug\Business.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Business\obj\Debug\Business.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Debug\Business.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Debug\Business.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Debug\Dapper.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Debug\Dapper.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\obj\Debug\Business.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\obj\Debug\Business.pdb
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Business.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Business.pdb
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Dapper.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Dapper.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Business.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Business.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Dapper.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Debug\Dapper.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.csprojAssemblyReference.cache
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.csproj.CopyComplete
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Debug\Business.pdb

@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Lobby";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Lobby</h2>
+
+<h3>Bem vindo à area Administrativa!</h3>
+
+@if (Request.IsAuthenticated)
+{
+    var usuario = (Business.Mapping.Usuario)Session["usuarioLogado"];
+
+    <ul class="nav navbar-nav navbar-right">
+        <li>
+            @Html.ActionLink(
+                "Olá " + (usuario == null ? "Erro" : usuario.Nome) + "!",
+                "Sair",
+                "Usuario")
+        </li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right navp">
+        <li>@Html.ActionLink("Entrar", "Login", "Usuario")</li>
+        <li>@Html.ActionLink("Registrar", "Criar", "Usuario")</li>
+        <li>@Html.ActionLink("Esqueci", "Recuperar", "Usuario")</li>
+    </ul>
+}

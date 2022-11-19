@@ -1,0 +1,15 @@
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Release\Business.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Release\Business.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Release\Dapper.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\bin\Release\Dapper.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\obj\Release\Business.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Business\obj\Release\Business.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Release\Business.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Release\Business.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Release\Dapper.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\bin\Release\Dapper.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Release\Business.csproj.CopyComplete
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Release\Business.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Business\obj\Release\Business.pdb

@@ -1,0 +1,25 @@
+﻿@model Business.Mapping.Personagens
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div class="det">
+    <div class="imgdet">
+        <img src="~/Content/Estilo/@(Model.ID)p.jpg" style="width:100%;height:70%"/>
+    </div>
+    <div class="nomedescdet">
+    <h4>@Html.DisplayFor(model => model.Nome)</h4>
+    <p>@Html.DisplayFor(model => model.Descricao)</p>
+     </div>
+</div>
+<br/>
+   <a class="butedit" href="~/Admin/USPersonagens/Index">
+
+
+   Voltar
+   </a>
+  

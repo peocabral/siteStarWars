@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Business.Mapping.Personagens>
+<link href="~/Content/Estilo/Itens.css" rel="stylesheet" />
+<link href="~/Content/Estilo/Sitegeral.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Personagens</h2>
+
+<a class="butedit" href="~/Personagens/Create">Novo</a>
+<br />
+@foreach (var item in Model)
+{
+    <div class="grid">
+        <div class="image">
+            <img src="~/Content/Estilo/@(item.ID)p.jpg" style="width:100%" />
+        </div>
+        <div class="descri">
+            <p>Nome: @Html.DisplayFor(modelItem => item.Nome)</p>
+            <p>Descrição: @Html.DisplayFor(modelItem => item.Descricao)</p>
+        </div>
+        <div class="edic">
+            <p>
+                <a class="butedit" href="@Url.Action("Edit", "Personagens", new { id=item.ID })">
+                    Editar
+                </a>
+                <a class="butedit" href="@Url.Action("Details", "Personagens", new { id=item.ID })">
+                    Detalhes
+                </a>
+                <a class="butedit" href="@Url.Action("Delete", "Personagens", new { id=item.ID })">
+                    Deletar
+                </a>
+            </p>
+        </div>
+    </div>
+}

@@ -1,0 +1,87 @@
+﻿div.image{
+    height:150px;
+    width:300px;
+    padding-right:5px;
+    
+}
+div.imagehome{
+    height:240px;
+    width:300px;
+    padding-right:5px;
+    padding-top:5px;
+}
+p.parahome{
+    font-size:25px;
+    color:#3fff3d !important;
+    text-transform: uppercase;
+    overflow:hidden;
+}
+div.grid{
+    border-color:#3fff3d !important; 
+    height:300px;
+    width:300px;    
+    border:solid;
+    margin:25px;
+    float:left;
+    border-radius:5px;  
+    
+}
+
+a.grid{
+    border-color:#3fff3d !important; 
+    height:300px;
+    width:300px;    
+    border:solid;
+    margin:25px;
+    float:left;
+   border-radius:5px;  
+       
+}
+a.grid .imagehome>img{
+    width:100%;
+    height:100%;
+}
+div.descri{
+   
+    height:90px;
+    width:300px;
+    text-align:center;
+    overflow:hidden;
+    
+}
+div.edic{
+    height:55px;
+    width:295px;
+    border:solid;
+    text-align:center;
+    border-color:#3fff3d;
+}
+div:hover{
+    border-color:aqua !important; 
+    transition: 2s;
+}
+.btnp{
+    font-size:16px !important;      
+
+}
+div.det{
+    width:1100px;
+    height:500px;
+    border:solid;
+    border-color:aqua;
+}
+div.imgdet{
+    width:400px;
+    height:500px;
+    border-color:darkturquoise;
+    padding-right:1px;
+    float:left;
+}
+div.nomedescdet{
+    width:600px;
+    height:400px;
+    position:relative;
+    text-align:left;
+    float:right;
+    z-index:2;
+}

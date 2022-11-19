@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div style="width:1100px;height:600px">
+    <!-- CArousel -->
+    <div id="carousel" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel" data-slide-to="1"></li>
+            <li data-target="#carousel" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="~/Content/Estilo/imgs/Millennium_Falcon.jpg" />
+                <div class="carousel-caption">
+                    <p>Uma espaçonave lendária, apesar de suas origens humildes e exterior desgastado, a Millennium Falcon desempenha um papel importante em algumas das maiores vitórias da Aliança Rebelde sobre o Império. </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="~/Content/Estilo/imgs/X-Wing.jpg" />
+                <div class="carousel-caption">
+                    <p>O X-wing é um versátil caça estelar da Aliança Rebelde que equilibra velocidade e poder de fogo. Armado com quatro canhões de laser e dois lançadores de torpedos de prótons, o X-wing pode enfrentar qualquer coisa que o Império lance contra ele. </p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="~/Content/Estilo/imgs/Eta-2 Actis Interceptor.jpg" />
+                <div class="carousel-caption">
+                    <p>O Jedi Starfighter Interceptor Eta-2 Actis foi um caça estelar utilizado pelos Jedi durante as Guerras Clônicas, na Era da Ascensão do Império.</p>
+                </div>
+            </div>
+
+        </div>
+        <a href="#carousel" class="left carousel-control" data-slide="prev">
+            <i class="glyphicon glyphicon-chevron-left"></i>
+        </a>
+        <a href="#carousel" class="right carousel-control" data-slide="next">
+            <i class="glyphicon glyphicon-chevron-right"></i>
+        </a>
+    </div>
+</div>
+
+<div class="row">
+
+
+    <a class="grid" href="~/Admin/USArmas/Details/1">
+        <div class="imagehome ">
+            <div class="img_layer"></div>
+            <img src="~/Content/Estilo/1a.jpg" />
+
+        </div>
+        <div class="edic">
+            <p class="parahome">SABRE DE LUZ</p>
+        </div>
+    </a>
+    <a class="grid" href="~/Admin/USVeiculos/Details/1">
+        <div class="imagehome ">
+            <div class="img_layer"></div>
+            <img src="~/Content/Estilo/1v.jpg" />
+        </div>
+        <div class="edic">
+            <p class="parahome">WALKER AT-ST</p>
+        </div>
+    </a>
+    <a class="grid" href="~/Admin/USPersonagens/Details/1">
+        <div class="imagehome ">
+            <div class="img_layer"></div>
+            <img src="~/Content/Estilo/1p.jpg" />
+           
+        </div>
+        <div class="edic">
+
+            <p class="parahome">REY</p>
+        </div>
+    </a>
+
+</div>

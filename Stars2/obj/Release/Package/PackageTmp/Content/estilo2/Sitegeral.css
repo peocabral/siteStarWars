@@ -1,0 +1,120 @@
+﻿body {
+  /*background-image: url('../img/space.png');*/
+  background-color: #000 !important;
+}
+
+@font-face {
+    font-family: starWarsFont;
+    src: url('STARWARS.woff') format('woff');
+}
+
+
+
+address,h3,h2,p,tbody,td,label,h4,dt,dd{
+  color: darkturquoise !important;
+}
+.body-content{
+  background-color:rgba(43, 41, 40, 0.7);
+  padding: 0 35px !important;
+}
+
+.body-content:first-child{
+  width:1100px;
+  height:600px
+}
+
+.layer_container{
+  background-color:rgba(0, 0, 0, 0.7);
+  display: table;
+  width: 100%;
+  padding: 5px;
+}
+
+div.navbar.navbar-inverse.navbar-fixed-top {
+  background-image: url('../img/space.png');
+  transition: .5s;
+}
+
+div.navbar.navbar-inverse.navbar-fixed-top:hover{
+  transition: .5s;
+}
+
+li {
+  font-size:20px;
+  margin-right:5px;
+  border-radius:5px;
+  transition: font-size 0.1s;
+}
+
+li > a{
+  display: flex !important;
+}
+
+
+.menu_item_hover {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    margin-top: -2px;
+    display: table;
+    
+    background-image: url('select_icon.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 20px 20px;
+    opacity: 0;
+    transition: 1s;
+    -webkit-animation: menu_item_hover 1s infinite;
+}
+
+@keyframes menu_item_hover {
+  0% {
+    -webkit-transform: rotateY(0deg);
+  }
+  20% {
+    -webkit-transform: rotateY(36deg);
+  }
+  40% {
+    -webkit-transform: rotateY(72deg);
+  }
+  60% {
+    -webkit-transform: rotateY(108deg);
+  }
+  80% {
+    -webkit-transform: rotateY(144deg);
+  }
+  100% {
+    -webkit-transform: rotateY(180deg);
+  }
+}
+
+.menu_item_hover_show{
+  opacity: 1;
+  transition: 1s;
+}
+
+a.butedit{
+  color: #3fff3d !important;
+  font-size:23px;
+  margin-right:5px;
+  border-radius:5px;
+  border-color: #3fff3d;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.navp > li > a{
+  color: #FF0 !important;
+  /*color: #3FFF3D !important;*/
+  font-family: starWarsFont;
+  text-transform: uppercase;
+  float: right;
+}
+
+.nav > li > a:hover, .nav > li > a:focus{
+  background-color:rgba(43, 41, 40, 0.7);
+}
+
+.navp > li > a:hover{
+  background-color: aqua;
+}

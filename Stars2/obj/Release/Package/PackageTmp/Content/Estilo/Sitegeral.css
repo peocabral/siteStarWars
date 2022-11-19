@@ -1,0 +1,63 @@
+﻿body {
+    background-image: url('imgs/space.png');
+}
+address,h3,h2,p,tbody,td,label,h4,dt,dd{
+    color:darkturquoise !important;
+}
+.body-content{
+    background-color:rgba(43, 41, 40,0.7);
+    padding:0 35px !important;
+
+}
+.body-content:first-child{
+    width:100%;    
+}
+div.navbar.navbar-inverse.navbar-fixed-top {
+    background-image: url('imgs/banner2.png');
+    
+}
+li {
+    
+    font-size:20px;
+    margin-right:5px;   
+    border-radius:5px;
+    border-color: #3fff3d;
+    border-style: solid;
+    border-width: 5px;   
+    transition: font-size 0.1s;
+}
+a.butedit{
+    
+    color: #3fff3d !important;
+    font-size:23px;
+    margin-right:5px;   
+    border-radius:5px;
+    border-color: #3fff3d;
+    border-style: solid;
+    border-width: 5px;   
+    transition: font-size 0.1s;
+}
+.navp >li >a{
+    color:#3fff3d !important;
+    float: right;
+    
+}
+.nav > li > a:hover, .nav > li > a:focus{
+   background-color:rgba(43, 41, 40,0.7);
+  
+}
+li:hover{
+    border-color: #9aff71;
+    font-size:25px;
+}
+.navp >li >a:hover{
+    background-color:aqua;
+    transition:0.5s;
+}
+div.navbar.navbar-inverse.navbar-fixed-top:hover{   
+    height:100px;
+    transition: 0.5s;
+}
+.navbar-fixed-top:hover{
+    transition:0.5s;
+}

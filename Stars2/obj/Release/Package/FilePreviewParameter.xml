@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Stars220171201122110" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\ÚTIL\\SITE\ STAR\ WARS\ FUNCIONANDO\\Trabalho88757\\Stars2\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^F:\\ÚTIL\\SITE\ STAR\ WARS\ FUNCIONANDO\\Trabalho88757\\Stars2\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

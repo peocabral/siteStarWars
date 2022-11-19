@@ -1,0 +1,178 @@
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\csc.exe
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\vbc.exe
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Stars2.dll.config
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Stars2.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Stars2.pdb
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Antlr3.Runtime.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Business.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Newtonsoft.Json.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Helpers.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Mvc.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Optimization.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Razor.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.WebPages.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\WebGrease.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Dapper.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Business.pdb
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Helpers.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Mvc.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Optimization.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.Razor.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.WebPages.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Newtonsoft.Json.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\bin\Dapper.xml
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\obj\Debug\Stars2.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\obj\Debug\Stars2.dll
+C:\Users\Pedro\documents\visual studio 2015\Projects\Trabalho88757\Stars2\obj\Debug\Stars2.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\csc.exe
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\vbc.exe
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Stars2.dll.config
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Stars2.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Stars2.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Antlr3.Runtime.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Business.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Helpers.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Mvc.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Optimization.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Razor.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.WebPages.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\WebGrease.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Dapper.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Business.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Helpers.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Mvc.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Optimization.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.Razor.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.WebPages.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\bin\Dapper.xml
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\obj\Debug\Stars2.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\obj\Debug\Stars2.dll
+C:\Users\Pedro\Desktop\BACK1\Trabalho88757\Stars2\obj\Debug\Stars2.pdb
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\csc.exe
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\vbc.exe
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Stars2.dll.config
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Stars2.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Stars2.pdb
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Antlr3.Runtime.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Business.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Helpers.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Mvc.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Optimization.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Razor.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\WebGrease.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Dapper.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Business.pdb
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Helpers.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Mvc.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Optimization.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Razor.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Antlr3.Runtime.pdb
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Newtonsoft.Json.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Dapper.xml
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.dll
+C:\Users\Pedro\Desktop\coisas\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\csc.exe
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\System.Collections.Immutable.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\System.Reflection.Metadata.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\vbc.exe
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\roslyn\VBCSCompiler.exe.config
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Stars2.dll.config
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Stars2.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Stars2.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Antlr3.Runtime.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Business.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Microsoft.Web.Infrastructure.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Newtonsoft.Json.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Helpers.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Mvc.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Optimization.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Razor.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\WebGrease.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Dapper.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Business.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Helpers.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Mvc.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Optimization.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.Razor.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Deployment.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\System.Web.WebPages.Razor.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Antlr3.Runtime.pdb
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Newtonsoft.Json.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\bin\Dapper.xml
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.csprojAssemblyReference.cache
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.csproj.CoreCompileInputs.cache
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.csproj.CopyComplete
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.dll
+F:\ÚTIL\SITE STAR WARS FUNCIONANDO\Trabalho88757\Stars2\obj\Debug\Stars2.pdb
